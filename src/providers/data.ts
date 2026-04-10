@@ -17,7 +17,7 @@ export const dataProvider: DataProvider = {
     getOne: async () => {throw new Error('This function is not present in mock') },
     create: async () => {throw new Error('This function is not present in mock') },
     update: async () => {throw new Error('This function is not present in mock') },
-    deleteOne: async () => {throw new Error('This func is not present in mock') },
+    deleteOne: async () => {throw new Error('This function is not present in mock') },
 
   getApiUrl: () => '',
   }
